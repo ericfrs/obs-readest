@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Readest
+Comment=Modern ebook reader
+Exec=readest %U
+Icon=readest
+Categories=Office;Viewer;Education;
+MimeType=application/epub+zip;application/x-mobipocket-ebook;application/x-fictionbook+xml;application/x-cbz;application/pdf;text/plain;
+Terminal=false
+StartupNotify=true
