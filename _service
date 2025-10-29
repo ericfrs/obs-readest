@@ -2,8 +2,8 @@
   <service name="obs_scm">
     <param name="scm">git</param>
     <param name="url">https://github.com/readest/readest.git</param>
-    <param name="revision">v0.9.88</param>
-    <param name="versionformat">0.9.88</param>
+    <param name="revision">v0.9.91</param>
+    <param name="versionformat">0.9.91</param>
     <param name="submodules">enable</param>
   </service>
   <service name="tar" mode="buildtime"/>
