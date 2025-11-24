@@ -1,5 +1,5 @@
 Name:           readest
-Version:        0.9.91
+Version:        0.9.93
 Release:        0
 Summary:        Modern, feature-rich ebook reader built with Tauri and Next.js
 ExclusiveArch:  x86_64
